@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spider:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spider_jar</output-path>
+    <root id="archive" name="spider.jar">
+      <element id="module-output" name="spider" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/us/codecraft/webmagic-extension/0.7.6/webmagic-extension-0.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/commons/commons-pool2/2.10.0/commons-pool2-2.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/alibaba/fastjson2/fastjson2-extension/2.0.14.graal/fastjson2-extension-2.0.14.graal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/slf4j/slf4j-reload4j/2.0.4/slf4j-reload4j-2.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/us/codecraft/xsoup/0.3.5/xsoup-0.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/net/minidev/accessors-smart/2.4.7/accessors-smart-2.4.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/net/minidev/json-smart/2.4.7/json-smart-2.4.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/jayway/jsonpath/json-path/2.7.0/json-path-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/alibaba/fastjson/2.0.14.graal/fastjson-2.0.14.graal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/redis/clients/jedis/3.7.1/jedis-3.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/assertj/assertj-core/3.9.1/assertj-core-3.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/slf4j/slf4j-api/2.0.4/slf4j-api-2.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/ch/qos/reload4j/reload4j/1.2.22/reload4j-1.2.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/jsoup/jsoup/1.15.1/jsoup-1.15.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/us/codecraft/webmagic-core/0.7.6/webmagic-core-0.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/ow2/asm/asm/9.1/asm-9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/alibaba/fastjson2/fastjson2/2.0.14.graal/fastjson2-2.0.14.graal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
